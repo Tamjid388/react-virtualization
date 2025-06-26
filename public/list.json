@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 1,
+    "name": "Canon EOS R6",
+    "brand": "Canon",
+    "price": "$2499",
+    "megapixels": 20.1,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-performance full-frame mirrorless camera with great low-light capabilities.",
+    "lens": {
+      "type": "RF 24-105mm f/4L IS USM",
+      "features": ["Image Stabilization", "Fast Autofocus"]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Nikon D850",
+    "brand": "Nikon",
+    "price": "$2996",
+    "megapixels": 45.7,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "DSLR powerhouse with high resolution and excellent dynamic range.",
+    "lens": {
+      "type": "AF-S NIKKOR 24-70mm f/2.8E ED VR",
+      "features": ["Vibration Reduction", "Silent Wave Motor"]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sony Alpha a7 III",
+    "brand": "Sony",
+    "price": "$1998",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Popular mirrorless with excellent autofocus and video features.",
+    "lens": {
+      "type": "FE 28-70mm f/3.5-5.6 OSS",
+      "features": ["Optical SteadyShot", "Fast Hybrid AF"]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Fujifilm X-T4",
+    "brand": "Fujifilm",
+    "price": "$1699",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1519458246479-6acae7536988?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile mirrorless with in-body stabilization and great color science.",
+    "lens": {
+      "type": "XF 16-55mm f/2.8 R LM WR",
+      "features": ["Weather Resistant", "Linear Motor AF"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Panasonic Lumix GH5",
+    "brand": "Panasonic",
+    "price": "$1299",
+    "megapixels": 20.3,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1495745966610-2a67f2297e5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Professional video-focused camera with great stabilization.",
+    "lens": {
+      "type": "Lumix G X Vario 12-35mm f/2.8",
+      "features": ["Power O.I.S.", "High-speed Autofocus"]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Canon EOS 90D",
+    "brand": "Canon",
+    "price": "$1199",
+    "megapixels": 32.5,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1491796014055-e6835cdcd4c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-resolution DSLR with fast shooting and excellent image quality.",
+    "lens": {
+      "type": "EF-S 18-135mm f/3.5-5.6 IS USM",
+      "features": ["Image Stabilization", "Nano USM"]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sony Alpha a6400",
+    "brand": "Sony",
+    "price": "$899",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "Compact mirrorless with great autofocus and video features.",
+    "lens": {
+      "type": "E PZ 16-50mm f/3.5-5.6 OSS",
+      "features": ["Power Zoom", "Optical SteadyShot"]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nikon Z6 II",
+    "brand": "Nikon",
+    "price": "$1999",
+    "megapixels": 24.5,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1536632087471-3cf3f2986328?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "High-speed full-frame mirrorless with in-body stabilization.",
+    "lens": {
+      "type": "NIKKOR Z 24-70mm f/4 S",
+      "features": ["Silent Wave Motor", "Vibration Reduction"]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Fujifilm X100V",
+    "brand": "Fujifilm",
+    "price": "$1399",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1552168324-d612d77725e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Compact fixed-lens camera with retro design and excellent image quality.",
+    "lens": {
+      "type": "Fixed 23mm f/2",
+      "features": ["Fast Aperture", "Hybrid Viewfinder"]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Olympus OM-D E-M10 Mark IV",
+    "brand": "Olympus",
+    "price": "$699",
+    "megapixels": 20.3,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Lightweight and compact mirrorless with 5-axis image stabilization.",
+    "lens": {
+      "type": "M.Zuiko Digital ED 14-42mm f/3.5-5.6 EZ",
+      "features": ["Electronic Zoom", "Silent Autofocus"]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Leica Q2",
+    "brand": "Leica",
+    "price": "$4995",
+    "megapixels": 47.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1495745966610-2a67f2297e5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-end fixed lens full-frame with superb image quality.",
+    "lens": {
+      "type": "Summilux 28mm f/1.7 ASPH",
+      "features": ["Fast Aperture", "Weather Sealed"]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Pentax K-1 Mark II",
+    "brand": "Pentax",
+    "price": "$1796",
+    "megapixels": 36.4,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Robust DSLR with excellent build and high-resolution sensor.",
+    "lens": {
+      "type": "D FA 24-70mm f/2.8ED SDM WR",
+      "features": ["Weather Resistant", "Silent Drive Motor"]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Sony RX100 VII",
+    "brand": "Sony",
+    "price": "$1198",
+    "megapixels": 20.1,
+    "sensorType": "1-inch",
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Premium compact camera with zoom and fast autofocus.",
+    "lens": {
+      "type": "24-200mm f/2.8-4.5",
+      "features": ["Zeiss Optics", "Real-time Tracking AF"]
+    }
+  },
+  {
+    "id": 14,
+    "name": "GoPro HERO11 Black",
+    "brand": "GoPro",
+    "price": "$399",
+    "megapixels": 27,
+    "sensorType": "1/1.9-inch",
+    "image": "https://images.unsplash.com/photo-1565551069968-949366aa4cac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Action camera with waterproof design and 5.3K video recording.",
+    "lens": {
+      "type": "Fixed wide-angle",
+      "features": ["Hypersmooth stabilization", "Voice control"]
+    }
+  },
+  {
+    "id": 15,
+    "name": "DJI Pocket 2",
+    "brand": "DJI",
+    "price": "$349",
+    "megapixels": 64,
+    "sensorType": "1/1.7-inch",
+    "image": "https://images.unsplash.com/photo-1670946022745-a5165564dc91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGRqaSUyMGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Handheld gimbal camera with 4K video and image stabilization.",
+    "lens": {
+      "type": "Fixed lens",
+      "features": ["3-axis gimbal", "ActiveTrack"]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Leica M10-R",
+    "brand": "Leica",
+    "price": "$8295",
+    "megapixels": 40.9,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-resolution full-frame rangefinder with classic design.",
+    "lens": {
+      "type": "Leica Summilux-M 35mm f/1.4 ASPH",
+      "features": ["Manual focus", "Robust build"]
+    }
+  },
+  {
+    "id": 17,
+    "name": "Canon EOS M50 Mark II",
+    "brand": "Canon",
+    "price": "$599",
+    "megapixels": 24.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Budget-friendly mirrorless camera with solid video and autofocus.",
+    "lens": {
+      "type": "EF-M 15-45mm f/3.5-6.3 IS STM",
+      "features": ["Image Stabilization", "STM motor"]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Nikon D7500",
+    "brand": "Nikon",
+    "price": "$999",
+    "megapixels": 20.9,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1536632087471-3cf3f2986328?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "DSLR with great image quality and fast continuous shooting.",
+    "lens": {
+      "type": "AF-P DX NIKKOR 18-140mm f/3.5-5.6G ED VR",
+      "features": ["Vibration Reduction", "Silent Wave Motor"]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sony A1",
+    "brand": "Sony",
+    "price": "$6498",
+    "megapixels": 50.1,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Top-end mirrorless with incredible resolution and speed.",
+    "lens": {
+      "type": "FE 24-70mm f/2.8 GM",
+      "features": ["Fast AF", "High resolution"]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Fujifilm GFX 100S",
+    "brand": "Fujifilm",
+    "price": "$5999",
+    "megapixels": 102,
+    "sensorType": "Medium Format",
+    "image": "https://images.unsplash.com/photo-1519458246479-6acae7536988?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Medium format powerhouse with ultra-high resolution.",
+    "lens": {
+      "type": "GF 32-64mm f/4 R LM WR",
+      "features": ["Weather Resistant", "Linear Motor AF"]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Panasonic Lumix S5",
+    "brand": "Panasonic",
+    "price": "$1997",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1495745966610-2a67f2297e5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Full-frame mirrorless with video features and compact design.",
+    "lens": {
+      "type": "Lumix S 20-60mm f/3.5-5.6",
+      "features": ["5-axis stabilization", "V-Log support"]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Olympus OM-D E-M5 Mark III",
+    "brand": "Olympus",
+    "price": "$1199",
+    "megapixels": 20.4,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1569484763183-df2821b0238e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGRqaSUyMGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Compact mirrorless with excellent image stabilization.",
+    "lens": {
+      "type": "M.Zuiko Digital ED 12-40mm f/2.8 PRO",
+      "features": ["Weather Sealed", "Silent Autofocus"]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Canon EOS R5",
+    "brand": "Canon",
+    "price": "$3899",
+    "megapixels": 45,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-resolution mirrorless with advanced autofocus and video.",
+    "lens": {
+      "type": "RF 24-105mm f/4L IS USM",
+      "features": ["Image Stabilization", "Fast AF"]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Nikon Z6 II",
+    "brand": "Nikon",
+    "price": "$1996",
+    "megapixels": 24.5,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1620360362780-d484683ea998?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aW14JTIwY2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "Versatile full-frame mirrorless with dual processors.",
+    "lens": {
+      "type": "NIKKOR Z 24-70mm f/4 S",
+      "features": ["Fast AF", "Silent Shooting"]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Sony Alpha a7R IV",
+    "brand": "Sony",
+    "price": "$3499",
+    "megapixels": 61.0,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "High-resolution full-frame mirrorless with advanced autofocus.",
+    "lens": {
+      "type": "FE 24-105mm f/4 G OSS",
+      "features": ["Optical SteadyShot", "Fast Hybrid AF"]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Canon EOS Rebel T8i",
+    "brand": "Canon",
+    "price": "$899",
+    "megapixels": 24.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1491796014055-e6835cdcd4c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Entry-level DSLR with excellent autofocus and video capabilities.",
+    "lens": {
+      "type": "EF-S 18-55mm f/4-5.6 IS STM",
+      "features": ["Image Stabilization", "STM motor"]
+    }
+  },
+  {
+    "id": 27,
+    "name": "Fujifilm X-S10",
+    "brand": "Fujifilm",
+    "price": "$999",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1552168324-d612d77725e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Compact mirrorless with in-body stabilization and intuitive controls.",
+    "lens": {
+      "type": "XF 18-55mm f/2.8-4 R LM",
+      "features": ["Linear Motor AF", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 28,
+    "name": "Panasonic Lumix G9",
+    "brand": "Panasonic",
+    "price": "$1499",
+    "megapixels": 20.3,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-speed Micro Four Thirds camera for action photography.",
+    "lens": {
+      "type": "LEICA DG 12-60mm f/2.8-4.0",
+      "features": ["Power O.I.S.", "Weather Resistant"]
+    }
+  },
+  {
+    "id": 29,
+    "name": "Nikon Z7 II",
+    "brand": "Nikon",
+    "price": "$2999",
+    "megapixels": 45.7,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-resolution full-frame mirrorless for detailed landscapes.",
+    "lens": {
+      "type": "NIKKOR Z 24-200mm f/4-6.3 VR",
+      "features": ["Vibration Reduction", "Fast AF"]
+    }
+  },
+  {
+    "id": 30,
+    "name": "Sony ZV-1",
+    "brand": "Sony",
+    "price": "$749",
+    "megapixels": 20.1,
+    "sensorType": "1-inch",
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Compact vlogging camera with excellent video features.",
+    "lens": {
+      "type": "ZEISS Vario-Sonnar T* 24-70mm f/1.8-2.8",
+      "features": ["Fast Aperture", "Real-time Tracking AF"]
+    }
+  },
+  {
+    "id": 31,
+    "name": "Canon EOS RP",
+    "brand": "Canon",
+    "price": "$999",
+    "megapixels": 26.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Affordable full-frame mirrorless for enthusiasts.",
+    "lens": {
+      "type": "RF 24-105mm f/4-7.1 IS STM",
+      "features": ["Image Stabilization", "STM motor"]
+    }
+  },
+  {
+    "id": 32,
+    "name": "Fujifilm X-E4",
+    "brand": "Fujifilm",
+    "price": "$849",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1519458246479-6acae7536988?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Minimalist APS-C mirrorless for street photography.",
+    "lens": {
+      "type": "XF 27mm f/2.8 R WR",
+      "features": ["Weather Resistant", "Compact Design"]
+    }
+  },
+  {
+    "id": 33,
+    "name": "Panasonic Lumix G100",
+    "brand": "Panasonic",
+    "price": "$749",
+    "megapixels": 20.3,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1495745966610-2a67f2297e5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Vlogger-friendly Micro Four Thirds camera with compact design.",
+    "lens": {
+      "type": "Lumix G 12-32mm f/3.5-5.6",
+      "features": ["Mega O.I.S.", "Compact Zoom"]
+    }
+  },
+  {
+    "id": 34,
+    "name": "Nikon Z fc",
+    "brand": "Nikon",
+    "price": "$999",
+    "megapixels": 20.9,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1536632087471-3cf3f2986328?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "Retro-styled APS-C mirrorless with modern features.",
+    "lens": {
+      "type": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+      "features": ["Vibration Reduction", "Compact Design"]
+    }
+  },
+  {
+    "id": 35,
+    "name": "Sony A7S III",
+    "brand": "Sony",
+    "price": "$3499",
+    "megapixels": 12.1,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Low-light full-frame mirrorless optimized for video.",
+    "lens": {
+      "type": "FE 20mm f/1.8 G",
+      "features": ["Fast Aperture", "Fast Hybrid AF"]
+    }
+  },
+  {
+    "id": 36,
+    "name": "Canon EOS 5D Mark IV",
+    "brand": "Canon",
+    "price": "$2499",
+    "megapixels": 30.4,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile full-frame DSLR for professional photography.",
+    "lens": {
+      "type": "EF 24-105mm f/4L IS II USM",
+      "features": ["Image Stabilization", "Fast Autofocus"]
+    }
+  },
+  {
+    "id": 37,
+    "name": "Fujifilm X-T30 II",
+    "brand": "Fujifilm",
+    "price": "$899",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1552168324-d612d77725e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Compact APS-C mirrorless with excellent color reproduction.",
+    "lens": {
+      "type": "XF 18-55mm f/2.8-4 R LM",
+      "features": ["Linear Motor AF", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 38,
+    "name": "Panasonic Lumix GH6",
+    "brand": "Panasonic",
+    "price": "$2199",
+    "megapixels": 25.2,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Advanced Micro Four Thirds camera for professional video.",
+    "lens": {
+      "type": "LEICA DG 10-25mm f/1.7 ASPH",
+      "features": ["Fast Aperture", "Power O.I.S."]
+    }
+  },
+  {
+    "id": 39,
+    "name": "Nikon D780",
+    "brand": "Nikon",
+    "price": "$2299",
+    "megapixels": 24.5,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Full-frame DSLR with hybrid autofocus capabilities.",
+    "lens": {
+      "type": "AF-S 24-120mm f/4G ED VR",
+      "features": ["Vibration Reduction", "Silent Wave Motor"]
+    }
+  },
+  {
+    "id": 40,
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "price": "$699",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "APS-C mirrorless designed for content creators and vloggers.",
+    "lens": {
+      "type": "E PZ 16-50mm f/3.5-5.6 OSS",
+      "features": ["Power Zoom", "Optical SteadyShot"]
+    }
+  },
+  {
+    "id": 41,
+    "name": "Canon EOS R7",
+    "brand": "Canon",
+    "price": "$1499",
+    "megapixels": 32.5,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1491796014055-e6835cdcd4c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-speed APS-C mirrorless for action photography.",
+    "lens": {
+      "type": "RF-S 18-150mm f/3.5-6.3 IS STM",
+      "features": ["Image Stabilization", "STM motor"]
+    }
+  },
+  {
+    "id": 42,
+    "name": "Fujifilm X-H2S",
+    "brand": "Fujifilm",
+    "price": "$2499",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1519458246479-6acae7536988?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-speed APS-C mirrorless for sports and wildlife.",
+    "lens": {
+      "type": "XF 16-55mm f/2.8 R LM WR",
+      "features": ["Weather Resistant", "Linear Motor AF"]
+    }
+  },
+  {
+    "id": 43,
+    "name": "Panasonic Lumix S1R",
+    "brand": "Panasonic",
+    "price": "$3699",
+    "megapixels": 47.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1495745966610-2a67f2297e5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "High-resolution full-frame mirrorless for studio photography.",
+    "lens": {
+      "type": "Lumix S 24-105mm f/4 Macro O.I.S.",
+      "features": ["Macro Capability", "5-axis stabilization"]
+    }
+  },
+  {
+    "id": 44,
+    "name": "Nikon Z5",
+    "brand": "Nikon",
+    "price": "$1399",
+    "megapixels": 24.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Entry-level full-frame mirrorless with excellent image quality.",
+    "lens": {
+      "type": "NIKKOR Z 24-50mm f/4-6.3",
+      "features": ["Compact Design", "Vibration Reduction"]
+    }
+  },
+  {
+    "id": 45,
+    "name": "Sony A6600",
+    "brand": "Sony",
+    "price": "$1399",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1536632087471-3cf3f2986328?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "APS-C mirrorless with advanced autofocus and in-body stabilization.",
+    "lens": {
+      "type": "E 18-135mm f/3.5-5.6 OSS",
+      "features": ["Optical SteadyShot", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 46,
+    "name": "Canon EOS R10",
+    "brand": "Canon",
+    "price": "$979",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Compact APS-C mirrorless for beginners and enthusiasts.",
+    "lens": {
+      "type": "RF-S 18-45mm f/4.5-6.3 IS STM",
+      "features": ["Image Stabilization", "STM motor"]
+    }
+  },
+  {
+    "id": 47,
+    "name": "Fujifilm X-Pro3",
+    "brand": "Fujifilm",
+    "price": "$1799",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1552168324-d612d77725e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Rangefinder-style APS-C mirrorless for street photographers.",
+    "lens": {
+      "type": "XF 35mm f/1.4 R",
+      "features": ["Fast Aperture", "Compact Design"]
+    }
+  },
+  {
+    "id": 48,
+    "name": "Panasonic Lumix G95",
+    "brand": "Panasonic",
+    "price": "$999",
+    "megapixels": 20.3,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Hybrid Micro Four Thirds camera for photo and video.",
+    "lens": {
+      "type": "Lumix G 12-60mm f/3.5-5.6",
+      "features": ["Power O.I.S.", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 49,
+    "name": "Nikon Z9",
+    "brand": "Nikon",
+    "price": "$5499",
+    "megapixels": 45.7,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1620360362780-d484683ea998?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aW14JTIwY2FtZXJhfGVufDB8fDB8fHwy",
+    "description": "Flagship full-frame mirrorless for professional sports photography.",
+    "lens": {
+      "type": "NIKKOR Z 24-70mm f/2.8 S",
+      "features": ["Fast AF", "Weather Sealed"]
+    }
+  },
+  {
+    "id": 50,
+    "name": "Sony RX1R II",
+    "brand": "Sony",
+    "price": "$3299",
+    "megapixels": 42.4,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Premium compact full-frame camera with fixed lens.",
+    "lens": {
+      "type": "ZEISS Sonnar T* 35mm f/2",
+      "features": ["Fast Aperture", "High Resolution"]
+    }
+  },
+  {
+    "id": 51,
+    "name": "Sony Alpha A7 III",
+    "brand": "Sony",
+    "price": "$1999",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile mirrorless camera with excellent autofocus and battery life.",
+    "lens": {
+      "type": "FE 24-70mm f/2.8 GM",
+      "features": ["Fast Autofocus", "Wide Aperture"]
+    }
+  },
+  {
+    "id": 52,
+    "name": "Fujifilm X-T4",
+    "brand": "Fujifilm",
+    "price": "$1699",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Compact and powerful mirrorless with in-body stabilization and film simulation modes.",
+    "lens": {
+      "type": "XF 16-55mm f/2.8 R LM WR",
+      "features": ["Weather Resistant", "Image Stabilization"]
+    }
+  },
+  {
+    "id": 53,
+    "name": "Olympus OM-D E-M1 Mark III",
+    "brand": "Olympus",
+    "price": "$1799",
+    "megapixels": 20.4,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Rugged and lightweight with advanced autofocus and pro features.",
+    "lens": {
+      "type": "M.Zuiko Digital ED 12-40mm f/2.8 PRO",
+      "features": ["Weather Sealed", "Fast Autofocus"]
+    }
+  },
+  {
+    "id": 54,
+    "name": "Panasonic Lumix GH5",
+    "brand": "Panasonic",
+    "price": "$1497",
+    "megapixels": 20.3,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Excellent video capabilities combined with solid photo performance.",
+    "lens": {
+      "type": "Lumix G X Vario 12-35mm f/2.8 II",
+      "features": ["4K Video", "Image Stabilization"]
+    }
+  },
+    {
+    "id": 55,
+    "name": "Canon EOS R10",
+    "brand": "Canon",
+    "price": "$979",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Entry-level mirrorless with high-speed shooting and modern autofocus.",
+    "lens": {
+      "type": "RF-S 18-45mm f/4.5-6.3 IS STM",
+      "features": ["Compact", "Image Stabilized"]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Nikon Z fc",
+    "brand": "Nikon",
+    "price": "$956",
+    "megapixels": 20.9,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Retro-styled mirrorless with solid performance and Z-mount flexibility.",
+    "lens": {
+      "type": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+      "features": ["Retro Design", "VR Stabilization"]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "price": "$698",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Vlogger-friendly camera with flip screen and built-in mic features.",
+    "lens": {
+      "type": "16-50mm Power Zoom",
+      "features": ["Vlogging Ready", "Image Stabilization"]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Fujifilm X-S10",
+    "brand": "Fujifilm",
+    "price": "$999",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish camera with IBIS and easy handling for content creators.",
+    "lens": {
+      "type": "XC 15-45mm f/3.5-5.6 OIS",
+      "features": ["In-Body Stabilization", "Compact Zoom"]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Canon EOS RP",
+    "brand": "Canon",
+    "price": "$999",
+    "megapixels": 26.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Affordable full-frame mirrorless for enthusiasts and beginners.",
+    "lens": {
+      "type": "RF 24-105mm f/4-7.1 IS STM",
+      "features": ["Full Frame", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Nikon Z5",
+    "brand": "Nikon",
+    "price": "$1296",
+    "megapixels": 24.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Great value entry-level full-frame mirrorless from Nikon.",
+    "lens": {
+      "type": "NIKKOR Z 24-50mm f/4-6.3",
+      "features": ["Full Frame", "Compact Design"]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Sony A6400",
+    "brand": "Sony",
+    "price": "$998",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Fast autofocus and compact size perfect for hybrid shooters.",
+    "lens": {
+      "type": "E 18-135mm f/3.5-5.6 OSS",
+      "features": ["Fast AF", "Power Zoom"]
+    }
+  },
+  {
+    "id": 62,
+    "name": "Panasonic Lumix S5",
+    "brand": "Panasonic",
+    "price": "$1697",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile hybrid camera for creators with 10-bit video and great IBIS.",
+    "lens": {
+      "type": "Lumix S 20-60mm f/3.5-5.6",
+      "features": ["Full Frame", "Hybrid Shooting"]
+    }
+  },
+  {
+    "id": 63,
+    "name": "Olympus PEN E-PL10",
+    "brand": "Olympus",
+    "price": "$599",
+    "megapixels": 16.1,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish and compact camera with good image quality for casual shooters.",
+    "lens": {
+      "type": "M.Zuiko 14-42mm f/3.5-5.6",
+      "features": ["Compact", "Stylish Design"]
+    }
+  },
+  {
+    "id": 64,
+    "name": "Fujifilm GFX 100S",
+    "brand": "Fujifilm",
+    "price": "$5999",
+    "megapixels": 102,
+    "sensorType": "Medium Format",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stunning resolution and large sensor for ultimate detail and dynamic range.",
+    "lens": {
+      "type": "GF 32-64mm f/4 R LM WR",
+      "features": ["Medium Format", "Incredible Detail"]
+    }
+  },
+    {
+    "id": 55,
+    "name": "Canon EOS R10",
+    "brand": "Canon",
+    "price": "$979",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Entry-level mirrorless with high-speed shooting and modern autofocus.",
+    "lens": {
+      "type": "RF-S 18-45mm f/4.5-6.3 IS STM",
+      "features": ["Compact", "Image Stabilized"]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Nikon Z fc",
+    "brand": "Nikon",
+    "price": "$956",
+    "megapixels": 20.9,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Retro-styled mirrorless with solid performance and Z-mount flexibility.",
+    "lens": {
+      "type": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+      "features": ["Retro Design", "VR Stabilization"]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "price": "$698",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Vlogger-friendly camera with flip screen and built-in mic features.",
+    "lens": {
+      "type": "16-50mm Power Zoom",
+      "features": ["Vlogging Ready", "Image Stabilization"]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Fujifilm X-S10",
+    "brand": "Fujifilm",
+    "price": "$999",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish camera with IBIS and easy handling for content creators.",
+    "lens": {
+      "type": "XC 15-45mm f/3.5-5.6 OIS",
+      "features": ["In-Body Stabilization", "Compact Zoom"]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Canon EOS RP",
+    "brand": "Canon",
+    "price": "$999",
+    "megapixels": 26.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Affordable full-frame mirrorless for enthusiasts and beginners.",
+    "lens": {
+      "type": "RF 24-105mm f/4-7.1 IS STM",
+      "features": ["Full Frame", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Nikon Z5",
+    "brand": "Nikon",
+    "price": "$1296",
+    "megapixels": 24.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Great value entry-level full-frame mirrorless from Nikon.",
+    "lens": {
+      "type": "NIKKOR Z 24-50mm f/4-6.3",
+      "features": ["Full Frame", "Compact Design"]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Sony A6400",
+    "brand": "Sony",
+    "price": "$998",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Fast autofocus and compact size perfect for hybrid shooters.",
+    "lens": {
+      "type": "E 18-135mm f/3.5-5.6 OSS",
+      "features": ["Fast AF", "Power Zoom"]
+    }
+  },
+  {
+    "id": 62,
+    "name": "Panasonic Lumix S5",
+    "brand": "Panasonic",
+    "price": "$1697",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile hybrid camera for creators with 10-bit video and great IBIS.",
+    "lens": {
+      "type": "Lumix S 20-60mm f/3.5-5.6",
+      "features": ["Full Frame", "Hybrid Shooting"]
+    }
+  },
+  {
+    "id": 63,
+    "name": "Olympus PEN E-PL10",
+    "brand": "Olympus",
+    "price": "$599",
+    "megapixels": 16.1,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish and compact camera with good image quality for casual shooters.",
+    "lens": {
+      "type": "M.Zuiko 14-42mm f/3.5-5.6",
+      "features": ["Compact", "Stylish Design"]
+    }
+  },
+  {
+    "id": 64,
+    "name": "Fujifilm GFX 100S",
+    "brand": "Fujifilm",
+    "price": "$5999",
+    "megapixels": 102,
+    "sensorType": "Medium Format",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stunning resolution and large sensor for ultimate detail and dynamic range.",
+    "lens": {
+      "type": "GF 32-64mm f/4 R LM WR",
+      "features": ["Medium Format", "Incredible Detail"]
+    }
+  },
+    {
+    "id": 55,
+    "name": "Canon EOS R10",
+    "brand": "Canon",
+    "price": "$979",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Entry-level mirrorless with high-speed shooting and modern autofocus.",
+    "lens": {
+      "type": "RF-S 18-45mm f/4.5-6.3 IS STM",
+      "features": ["Compact", "Image Stabilized"]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Nikon Z fc",
+    "brand": "Nikon",
+    "price": "$956",
+    "megapixels": 20.9,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Retro-styled mirrorless with solid performance and Z-mount flexibility.",
+    "lens": {
+      "type": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+      "features": ["Retro Design", "VR Stabilization"]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "price": "$698",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Vlogger-friendly camera with flip screen and built-in mic features.",
+    "lens": {
+      "type": "16-50mm Power Zoom",
+      "features": ["Vlogging Ready", "Image Stabilization"]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Fujifilm X-S10",
+    "brand": "Fujifilm",
+    "price": "$999",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish camera with IBIS and easy handling for content creators.",
+    "lens": {
+      "type": "XC 15-45mm f/3.5-5.6 OIS",
+      "features": ["In-Body Stabilization", "Compact Zoom"]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Canon EOS RP",
+    "brand": "Canon",
+    "price": "$999",
+    "megapixels": 26.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Affordable full-frame mirrorless for enthusiasts and beginners.",
+    "lens": {
+      "type": "RF 24-105mm f/4-7.1 IS STM",
+      "features": ["Full Frame", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Nikon Z5",
+    "brand": "Nikon",
+    "price": "$1296",
+    "megapixels": 24.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Great value entry-level full-frame mirrorless from Nikon.",
+    "lens": {
+      "type": "NIKKOR Z 24-50mm f/4-6.3",
+      "features": ["Full Frame", "Compact Design"]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Sony A6400",
+    "brand": "Sony",
+    "price": "$998",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Fast autofocus and compact size perfect for hybrid shooters.",
+    "lens": {
+      "type": "E 18-135mm f/3.5-5.6 OSS",
+      "features": ["Fast AF", "Power Zoom"]
+    }
+  },
+  {
+    "id": 62,
+    "name": "Panasonic Lumix S5",
+    "brand": "Panasonic",
+    "price": "$1697",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile hybrid camera for creators with 10-bit video and great IBIS.",
+    "lens": {
+      "type": "Lumix S 20-60mm f/3.5-5.6",
+      "features": ["Full Frame", "Hybrid Shooting"]
+    }
+  },
+  {
+    "id": 63,
+    "name": "Olympus PEN E-PL10",
+    "brand": "Olympus",
+    "price": "$599",
+    "megapixels": 16.1,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish and compact camera with good image quality for casual shooters.",
+    "lens": {
+      "type": "M.Zuiko 14-42mm f/3.5-5.6",
+      "features": ["Compact", "Stylish Design"]
+    }
+  },
+  {
+    "id": 64,
+    "name": "Fujifilm GFX 100S",
+    "brand": "Fujifilm",
+    "price": "$5999",
+    "megapixels": 102,
+    "sensorType": "Medium Format",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stunning resolution and large sensor for ultimate detail and dynamic range.",
+    "lens": {
+      "type": "GF 32-64mm f/4 R LM WR",
+      "features": ["Medium Format", "Incredible Detail"]
+    }
+  },
+    {
+    "id": 55,
+    "name": "Canon EOS R10",
+    "brand": "Canon",
+    "price": "$979",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Entry-level mirrorless with high-speed shooting and modern autofocus.",
+    "lens": {
+      "type": "RF-S 18-45mm f/4.5-6.3 IS STM",
+      "features": ["Compact", "Image Stabilized"]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Nikon Z fc",
+    "brand": "Nikon",
+    "price": "$956",
+    "megapixels": 20.9,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Retro-styled mirrorless with solid performance and Z-mount flexibility.",
+    "lens": {
+      "type": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+      "features": ["Retro Design", "VR Stabilization"]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "price": "$698",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Vlogger-friendly camera with flip screen and built-in mic features.",
+    "lens": {
+      "type": "16-50mm Power Zoom",
+      "features": ["Vlogging Ready", "Image Stabilization"]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Fujifilm X-S10",
+    "brand": "Fujifilm",
+    "price": "$999",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish camera with IBIS and easy handling for content creators.",
+    "lens": {
+      "type": "XC 15-45mm f/3.5-5.6 OIS",
+      "features": ["In-Body Stabilization", "Compact Zoom"]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Canon EOS RP",
+    "brand": "Canon",
+    "price": "$999",
+    "megapixels": 26.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Affordable full-frame mirrorless for enthusiasts and beginners.",
+    "lens": {
+      "type": "RF 24-105mm f/4-7.1 IS STM",
+      "features": ["Full Frame", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Nikon Z5",
+    "brand": "Nikon",
+    "price": "$1296",
+    "megapixels": 24.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Great value entry-level full-frame mirrorless from Nikon.",
+    "lens": {
+      "type": "NIKKOR Z 24-50mm f/4-6.3",
+      "features": ["Full Frame", "Compact Design"]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Sony A6400",
+    "brand": "Sony",
+    "price": "$998",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Fast autofocus and compact size perfect for hybrid shooters.",
+    "lens": {
+      "type": "E 18-135mm f/3.5-5.6 OSS",
+      "features": ["Fast AF", "Power Zoom"]
+    }
+  },
+  {
+    "id": 62,
+    "name": "Panasonic Lumix S5",
+    "brand": "Panasonic",
+    "price": "$1697",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile hybrid camera for creators with 10-bit video and great IBIS.",
+    "lens": {
+      "type": "Lumix S 20-60mm f/3.5-5.6",
+      "features": ["Full Frame", "Hybrid Shooting"]
+    }
+  },
+  {
+    "id": 63,
+    "name": "Olympus PEN E-PL10",
+    "brand": "Olympus",
+    "price": "$599",
+    "megapixels": 16.1,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish and compact camera with good image quality for casual shooters.",
+    "lens": {
+      "type": "M.Zuiko 14-42mm f/3.5-5.6",
+      "features": ["Compact", "Stylish Design"]
+    }
+  },
+  {
+    "id": 64,
+    "name": "Fujifilm GFX 100S",
+    "brand": "Fujifilm",
+    "price": "$5999",
+    "megapixels": 102,
+    "sensorType": "Medium Format",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stunning resolution and large sensor for ultimate detail and dynamic range.",
+    "lens": {
+      "type": "GF 32-64mm f/4 R LM WR",
+      "features": ["Medium Format", "Incredible Detail"]
+    }
+  },
+    {
+    "id": 55,
+    "name": "Canon EOS R10",
+    "brand": "Canon",
+    "price": "$979",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Entry-level mirrorless with high-speed shooting and modern autofocus.",
+    "lens": {
+      "type": "RF-S 18-45mm f/4.5-6.3 IS STM",
+      "features": ["Compact", "Image Stabilized"]
+    }
+  },
+  {
+    "id": 56,
+    "name": "Nikon Z fc",
+    "brand": "Nikon",
+    "price": "$956",
+    "megapixels": 20.9,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Retro-styled mirrorless with solid performance and Z-mount flexibility.",
+    "lens": {
+      "type": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+      "features": ["Retro Design", "VR Stabilization"]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "price": "$698",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Vlogger-friendly camera with flip screen and built-in mic features.",
+    "lens": {
+      "type": "16-50mm Power Zoom",
+      "features": ["Vlogging Ready", "Image Stabilization"]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Fujifilm X-S10",
+    "brand": "Fujifilm",
+    "price": "$999",
+    "megapixels": 26.1,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish camera with IBIS and easy handling for content creators.",
+    "lens": {
+      "type": "XC 15-45mm f/3.5-5.6 OIS",
+      "features": ["In-Body Stabilization", "Compact Zoom"]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Canon EOS RP",
+    "brand": "Canon",
+    "price": "$999",
+    "megapixels": 26.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Affordable full-frame mirrorless for enthusiasts and beginners.",
+    "lens": {
+      "type": "RF 24-105mm f/4-7.1 IS STM",
+      "features": ["Full Frame", "Versatile Zoom"]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Nikon Z5",
+    "brand": "Nikon",
+    "price": "$1296",
+    "megapixels": 24.3,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Great value entry-level full-frame mirrorless from Nikon.",
+    "lens": {
+      "type": "NIKKOR Z 24-50mm f/4-6.3",
+      "features": ["Full Frame", "Compact Design"]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Sony A6400",
+    "brand": "Sony",
+    "price": "$998",
+    "megapixels": 24.2,
+    "sensorType": "APS-C",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Fast autofocus and compact size perfect for hybrid shooters.",
+    "lens": {
+      "type": "E 18-135mm f/3.5-5.6 OSS",
+      "features": ["Fast AF", "Power Zoom"]
+    }
+  },
+  {
+    "id": 62,
+    "name": "Panasonic Lumix S5",
+    "brand": "Panasonic",
+    "price": "$1697",
+    "megapixels": 24.2,
+    "sensorType": "Full Frame",
+    "image": "https://images.unsplash.com/photo-1515519128511-cbd81859fa91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Versatile hybrid camera for creators with 10-bit video and great IBIS.",
+    "lens": {
+      "type": "Lumix S 20-60mm f/3.5-5.6",
+      "features": ["Full Frame", "Hybrid Shooting"]
+    }
+  },
+  {
+    "id": 63,
+    "name": "Olympus PEN E-PL10",
+    "brand": "Olympus",
+    "price": "$599",
+    "megapixels": 16.1,
+    "sensorType": "Micro Four Thirds",
+    "image": "https://images.unsplash.com/photo-1524135220673-c731600a1a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWVyYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "description": "Stylish and compact camera with good image quality for casual shooters.",
+    "lens": {
+      "type": "M.Zuiko 14-42mm f/3.5-5.6",
+      "features": ["Compact", "Stylish Design"]
+    }
+  }
+
+]
