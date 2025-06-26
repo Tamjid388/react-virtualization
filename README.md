@@ -1,12 +1,40 @@
-# React + Vite
+# 📄 React Virtualized List 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✅ Task Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Objective:**  
+Render a list of **100 dummy elements** using **virtualization** to ensure that only a fixed amount of data is rendered at a time, keeping the UI smooth and performant.
+
+---
+
+## 🛠️ Technologies Used
+
+- React (Vite + JSX)
+- [react-virtuoso](https://virtuoso.dev/) (for list virtualization)
+- CSS / Tailwind (optional)
+
+---
+
+## 🧠 Why Virtualization?
+
+Rendering large lists without optimization can degrade performance and affect user experience.  
+By using **react-virtuoso**, only the visible list items are rendered in the DOM. This ensures smooth scrolling and faster load times.
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository or unzip the submitted folder.
+2. Install dependencies:
+
+   ```bash
+   npm install
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
